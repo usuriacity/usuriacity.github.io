@@ -1,0 +1,222 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/fr-minecraft_wallpaper_OBL21.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 637px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 594px;
+  min-height: 498px;
+  margin: 20px auto 60px 261px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0 189px 0 213px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 114px;
+  height: 114px;
+  background-image: url("images/Sanstitre-3.png");
+  background-position: 50% 50%;
+  animation-duration: 1750ms;
+  margin: 30px auto 0 24px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 114px;
+  height: 114px;
+  background-image: url("images/Sanstitre-3.png");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+  margin: -114px 228px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 114px;
+  height: 114px;
+  background-image: url("images/Sanstitre-3.png");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+  margin: -114px 0 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 9px 431px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  margin: 0 481px 0 49px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 46px 214px 0 239px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 114px;
+  height: 114px;
+  background-image: url("images/Sanstitre-3.png");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+  margin: 35px auto 0 24px;
+}
+
+.u-section-1 .u-image-5 {
+  width: 114px;
+  height: 114px;
+  background-image: url("images/Sanstitre-3.png");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+  margin: -114px 228px 0 auto;
+}
+
+.u-section-1 .u-image-6 {
+  width: 114px;
+  height: 114px;
+  background-image: url("images/Sanstitre-3.png");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+  margin: -114px 0 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 700;
+  margin: 9px 450px 0 34px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  margin: -24px 228px 0 264px;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 700;
+  margin: -24px 19px 0 492px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 525px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 402px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: 126px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 302px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 172px;
+    margin-left: 186px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 377px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 437px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 195px;
+    margin-left: 217px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 424px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 218px;
+    margin-left: 240px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 12px;
+    margin-left: 447px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 190px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 108px;
+    margin-left: 86px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: 226px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 177px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 275px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 123px;
+    margin-left: 137px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-right: 226px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 267px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 137px;
+    margin-left: 151px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 281px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 80px;
+}
+
+.audiovexento {
+	width: 50%;
+	height: 50%;
+    text-align: center;
+	margin; auto;
+    
+}
