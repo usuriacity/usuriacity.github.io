@@ -8,23 +8,28 @@
 }
 
 .u-section-1 .u-group-1 {
-  width: 594px;
-  min-height: 498px;
-  margin: 20px auto 60px 261px;
+  width: 654px;
+  min-height: 569px;
+  height: auto;
+  margin: 20px 225px 48px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 30px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: 0 189px 0 213px;
+  margin: 0 189px 0 273px;
 }
 
 .u-section-1 .u-image-1 {
   width: 114px;
   height: 114px;
-  background-image: url("images/Sanstitre-3.png");
+  background-image: url("images/slimevioletbleu.jpg");
   background-position: 50% 50%;
   animation-duration: 1750ms;
-  margin: 30px auto 0 24px;
+  margin: 30px auto 0 77px;
 }
 
 .u-section-1 .u-image-2 {
@@ -42,23 +47,23 @@
   background-image: url("images/Sanstitre-3.png");
   background-position: 50% 50%;
   animation-duration: 1000ms;
-  margin: -114px 0 0 auto;
+  margin: -114px auto 0 531px;
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
-  margin: 9px 431px 0 0;
+  margin: 9px 410px 0 53px;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 0 481px 0 49px;
+  margin: 0 488px 0 102px;
 }
 
 .u-section-1 .u-text-4 {
   font-weight: 700;
-  margin: 46px 214px 0 239px;
+  margin: 46px 214px 0 299px;
 }
 
 .u-section-1 .u-image-4 {
@@ -67,7 +72,7 @@
   background-image: url("images/Sanstitre-3.png");
   background-position: 50% 50%;
   animation-duration: 1000ms;
-  margin: 35px auto 0 24px;
+  margin: 35px auto 0 77px;
 }
 
 .u-section-1 .u-image-5 {
@@ -85,27 +90,31 @@
   background-image: url("images/Sanstitre-3.png");
   background-position: 50% 50%;
   animation-duration: 1000ms;
-  margin: -114px 0 0 auto;
+  margin: -114px auto 0 531px;
 }
 
 .u-section-1 .u-text-5 {
   font-weight: 700;
-  margin: 9px 450px 0 34px;
+  margin: 9px 465px 0 79px;
 }
 
 .u-section-1 .u-text-6 {
   font-weight: 700;
-  margin: -24px 228px 0 264px;
+  margin: -24px 228px 0 324px;
 }
 
 .u-section-1 .u-text-7 {
   font-weight: 700;
-  margin: -24px 19px 0 492px;
+  margin: -24px 0 0 540px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 525px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
   }
 }
 
@@ -115,7 +124,7 @@
   }
 
   .u-section-1 .u-group-1 {
-    margin-left: 126px;
+    margin-right: 66px;
   }
 }
 
@@ -126,20 +135,26 @@
 
   .u-section-1 .u-group-1 {
     width: 540px;
-    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-1 {
     margin-right: 172px;
-    margin-left: 186px;
+    margin-left: 216px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 426px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 377px;
+    margin-right: 349px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-3 {
     margin-right: 437px;
+    margin-left: 49px;
   }
 
   .u-section-1 .u-text-4 {
@@ -147,8 +162,13 @@
     margin-left: 217px;
   }
 
+  .u-section-1 .u-image-6 {
+    margin-left: 426px;
+  }
+
   .u-section-1 .u-text-5 {
     margin-right: 424px;
+    margin-left: 34px;
   }
 
   .u-section-1 .u-text-6 {
@@ -173,15 +193,19 @@
 
   .u-section-1 .u-text-1 {
     margin-right: 108px;
-    margin-left: 86px;
+    margin-left: 116px;
   }
 
   .u-section-1 .u-image-2 {
     margin-right: 226px;
   }
 
+  .u-section-1 .u-image-3 {
+    margin-left: 226px;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-right: 177px;
+    margin-right: 149px;
   }
 
   .u-section-1 .u-text-3 {
@@ -195,6 +219,10 @@
 
   .u-section-1 .u-image-5 {
     margin-right: 226px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 226px;
   }
 
   .u-section-1 .u-text-5 {
@@ -213,7 +241,7 @@
   min-height: 80px;
 }
 
-.audiovexento {
+ .audiovexento {
 	width: 50%;
 	height: 50%;
     text-align: center;
