@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1454px;
+  min-height: 1550px;
 }
 
 .u-section-1 .u-shape-1 {
@@ -44,6 +44,7 @@
 .u-section-1 .u-text-1 {
   font-size: 3.75rem;
   font-weight: 700;
+  animation-duration: 1000ms;
   margin: 43px 150px 0 190px;
 }
 
@@ -88,6 +89,7 @@
 .u-section-1 .u-text-6 {
   font-weight: 700;
   text-transform: none;
+  animation-duration: 1000ms;
   margin: 38px 856px 0 151px;
 }
 
@@ -172,17 +174,11 @@
   margin: -58px 485px 0 523px;
 }
 
-.u-section-1 .u-shape-3 {
-  width: 135px;
-  height: 136px;
-  margin: 113px auto 0 -17px;
-}
-
 .u-section-1 .u-text-16 {
   font-weight: 700;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: -255px 473px 0 523px;
+  margin: -6px 473px 0 523px;
 }
 
 .u-section-1 .u-image-6 {
@@ -199,7 +195,7 @@
   margin: -64px 396px 0 523px;
 }
 
-.u-section-1 .u-shape-4 {
+.u-section-1 .u-shape-3 {
   width: 135px;
   height: 136px;
   margin: -88px 31px 0 auto;
@@ -208,24 +204,44 @@
 .u-section-1 .u-image-7 {
   width: 297px;
   height: 297px;
-  margin: -312px 48px 0 auto;
+  box-shadow: -2px 2px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+  margin: -311px 44px 0 auto;
+}
+
+.u-section-1 .u-text-18 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -176px 71px 0 849px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-shape-4 {
+  width: 135px;
+  height: 136px;
+  margin: 198px auto 0 -17px;
 }
 
 .u-section-1 .u-shape-5 {
   width: 135px;
   height: 136px;
-  margin: 334px -17px 0 auto;
+  margin: 152px -17px 0 auto;
 }
 
 .u-section-1 .u-layout-wrap-2 {
-  margin-top: -407px;
-  margin-bottom: 18px;
+  margin-top: -435px;
+  margin-bottom: 60px;
   margin-right: 0;
 }
 
 .u-section-1 .u-image-8 {
   min-height: 389px;
   background-image: url("images/fr-minecraft_wallpaper_OBL21.png");
+  animation-duration: 1000ms;
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -240,12 +256,12 @@
   margin: 38px auto 0 148px;
 }
 
-.u-section-1 .u-text-18 {
+.u-section-1 .u-text-19 {
   font-weight: 700;
   margin: 43px 0 0 30px;
 }
 
-.u-section-1 .u-text-19 {
+.u-section-1 .u-text-20 {
   font-style: italic;
   font-size: 1.125rem;
   font-weight: 700;
@@ -255,6 +271,7 @@
 .u-section-1 .u-image-9 {
   min-height: 389px;
   background-image: url("images/2021-06-15_13.15.33_3.png");
+  animation-duration: 1000ms;
 }
 
 .u-section-1 .u-container-layout-5 {
@@ -269,11 +286,11 @@
   margin: 43px auto 0;
 }
 
-.u-section-1 .u-text-20 {
+.u-section-1 .u-text-21 {
   margin: 38px 0 0;
 }
 
-.u-section-1 .u-text-21 {
+.u-section-1 .u-text-22 {
   font-style: italic;
   font-weight: 700;
   font-size: 1.125rem;
@@ -283,6 +300,7 @@
 .u-section-1 .u-image-10 {
   min-height: 389px;
   background-image: url("images/2021-06-15_13.11.55.png");
+  animation-duration: 1000ms;
 }
 
 .u-section-1 .u-container-layout-6 {
@@ -297,12 +315,12 @@
   margin: 39px 0 0 auto;
 }
 
-.u-section-1 .u-text-22 {
+.u-section-1 .u-text-23 {
   font-weight: 700;
   margin: 43px 1px 0;
 }
 
-.u-section-1 .u-text-23 {
+.u-section-1 .u-text-24 {
   font-style: italic;
   font-weight: 700;
   font-size: 1.125rem;
@@ -311,7 +329,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1469px;
+    min-height: 1381px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -460,13 +478,9 @@
     margin-left: 488px;
   }
 
-  .u-section-1 .u-shape-3 {
-    margin-top: 175px;
-  }
-
   .u-section-1 .u-text-16 {
     width: auto;
-    margin-top: -312px;
+    margin-top: -1px;
     margin-right: 332px;
     margin-left: 464px;
   }
@@ -484,7 +498,7 @@
     margin-left: 801px;
   }
 
-  .u-section-1 .u-shape-4 {
+  .u-section-1 .u-shape-3 {
     width: 88px;
     height: 86px;
     margin-top: -16px;
@@ -498,13 +512,23 @@
     margin-right: 12px;
   }
 
+  .u-section-1 .u-text-18 {
+    margin-top: 115px;
+    margin-right: 0;
+    margin-left: 719px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-top: 175px;
+  }
+
   .u-section-1 .u-shape-5 {
-    margin-top: 554px;
+    margin-top: 104px;
   }
 
   .u-section-1 .u-layout-wrap-2 {
     margin-top: -357px;
-    margin-bottom: 60px;
+    margin-bottom: 0;
     margin-right: initial;
   }
 
@@ -516,11 +540,11 @@
     margin-left: 118px;
   }
 
-  .u-section-1 .u-text-18 {
+  .u-section-1 .u-text-19 {
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-19 {
+  .u-section-1 .u-text-20 {
     margin-left: 0;
   }
 
@@ -536,12 +560,12 @@
     min-height: 321px;
   }
 
-  .u-section-1 .u-text-22 {
+  .u-section-1 .u-text-23 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-23 {
+  .u-section-1 .u-text-24 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -549,7 +573,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1257px;
+    min-height: 1194px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -673,13 +697,7 @@
     margin-left: 378px;
   }
 
-  .u-section-1 .u-shape-3 {
-    margin-top: 164px;
-    margin-left: -16px;
-  }
-
   .u-section-1 .u-text-16 {
-    margin-top: -301px;
     margin-right: 222px;
     margin-left: 354px;
   }
@@ -694,7 +712,7 @@
     margin-left: 610px;
   }
 
-  .u-section-1 .u-shape-4 {
+  .u-section-1 .u-shape-3 {
     margin-top: -75px;
     margin-right: auto;
     margin-left: 585px;
@@ -708,13 +726,23 @@
     margin-left: 585px;
   }
 
+  .u-section-1 .u-text-18 {
+    margin-top: 214px;
+    margin-left: 499px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-top: 108px;
+    margin-left: -16px;
+  }
+
   .u-section-1 .u-shape-5 {
-    margin-top: 644px;
+    margin-top: 162px;
   }
 
   .u-section-1 .u-layout-wrap-2 {
     margin-top: -468px;
-    margin-bottom: 27px;
+    margin-bottom: 13px;
     margin-right: initial;
   }
 
@@ -732,13 +760,13 @@
     margin-left: auto;
   }
 
-  .u-section-1 .u-text-18 {
+  .u-section-1 .u-text-19 {
     width: auto;
     margin-top: 62px;
     margin-left: 16px;
   }
 
-  .u-section-1 .u-text-19 {
+  .u-section-1 .u-text-20 {
     width: auto;
     margin-top: 24px;
     margin-left: 16px;
@@ -752,7 +780,7 @@
     margin-top: 24px;
   }
 
-  .u-section-1 .u-text-20 {
+  .u-section-1 .u-text-21 {
     margin-top: 57px;
   }
 
@@ -770,14 +798,14 @@
     margin-right: 20px;
   }
 
-  .u-section-1 .u-text-22 {
+  .u-section-1 .u-text-23 {
     width: auto;
     margin-top: 50px;
     margin-left: 13px;
     margin-right: 13px;
   }
 
-  .u-section-1 .u-text-23 {
+  .u-section-1 .u-text-24 {
     width: auto;
     margin-top: 20px;
     margin-left: 6px;
@@ -787,7 +815,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2879px;
+    min-height: 2212px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -911,12 +939,7 @@
     margin-left: 288px;
   }
 
-  .u-section-1 .u-shape-3 {
-    margin-top: -57px;
-  }
-
   .u-section-1 .u-text-16 {
-    margin-top: -80px;
     margin-right: 132px;
     margin-left: 264px;
   }
@@ -927,7 +950,7 @@
     margin-left: 313px;
   }
 
-  .u-section-1 .u-shape-4 {
+  .u-section-1 .u-shape-3 {
     margin-top: 1728px;
     margin-left: 405px;
   }
@@ -938,13 +961,22 @@
     margin-left: auto;
   }
 
+  .u-section-1 .u-text-18 {
+    margin-top: 1661px;
+    margin-left: 319px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-top: -956px;
+  }
+
   .u-section-1 .u-shape-5 {
-    margin-top: 2094px;
+    margin-top: 1229px;
   }
 
   .u-section-1 .u-layout-wrap-2 {
     margin-top: -1533px;
-    margin-bottom: 60px;
+    margin-bottom: 0;
     margin-right: initial;
   }
 
@@ -960,7 +992,7 @@
     margin-right: 225px;
   }
 
-  .u-section-1 .u-text-19 {
+  .u-section-1 .u-text-20 {
     margin-top: 127px;
     margin-right: 110px;
     margin-left: 89px;
@@ -975,7 +1007,7 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-21 {
+  .u-section-1 .u-text-22 {
     width: 358px;
     margin-top: 77px;
     margin-left: auto;
@@ -995,11 +1027,11 @@
     margin-right: auto;
   }
 
-  .u-section-1 .u-text-22 {
+  .u-section-1 .u-text-23 {
     margin-top: 89px;
   }
 
-  .u-section-1 .u-text-23 {
+  .u-section-1 .u-text-24 {
     width: 318px;
     margin-top: 39px;
     margin-left: auto;
@@ -1009,7 +1041,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2206px;
+    min-height: 1646px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -1142,15 +1174,7 @@
     margin-left: 188px;
   }
 
-  .u-section-1 .u-shape-3 {
-    width: 145px;
-    height: 141px;
-    margin-top: -264px;
-    margin-left: -20px;
-  }
-
   .u-section-1 .u-text-16 {
-    margin-top: 122px;
     margin-right: 32px;
     margin-left: 164px;
   }
@@ -1166,7 +1190,7 @@
     margin-left: 227px;
   }
 
-  .u-section-1 .u-shape-4 {
+  .u-section-1 .u-shape-3 {
     margin-top: -77px;
     margin-right: 24px;
     margin-left: auto;
@@ -1177,8 +1201,20 @@
     margin-right: 13px;
   }
 
+  .u-section-1 .u-text-18 {
+    margin-top: 890px;
+    margin-left: 119px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    width: 145px;
+    height: 141px;
+    margin-top: -490px;
+    margin-left: -20px;
+  }
+
   .u-section-1 .u-shape-5 {
-    margin-top: 1325px;
+    margin-top: 760px;
     margin-right: -20px;
   }
 
@@ -1199,12 +1235,12 @@
     margin-right: 142px;
   }
 
-  .u-section-1 .u-text-18 {
+  .u-section-1 .u-text-19 {
     margin-right: 2px;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-19 {
+  .u-section-1 .u-text-20 {
     margin-top: 83px;
     margin-left: 1px;
     margin-right: 1px;
@@ -1218,11 +1254,11 @@
     padding-right: 5px;
   }
 
-  .u-section-1 .u-text-20 {
+  .u-section-1 .u-text-21 {
     margin-right: 5px;
   }
 
-  .u-section-1 .u-text-21 {
+  .u-section-1 .u-text-22 {
     width: auto;
     margin-top: 41px;
     margin-right: 0;
@@ -1238,13 +1274,13 @@
     margin-right: 32px;
   }
 
-  .u-section-1 .u-text-22 {
+  .u-section-1 .u-text-23 {
     margin-top: 47px;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-23 {
+  .u-section-1 .u-text-24 {
     width: auto;
     margin-top: 30px;
     margin-left: 11px;
@@ -1269,7 +1305,7 @@
 .u-section-2 .u-image-1 {
   width: 596px;
   min-height: 500px;
-  background-image: url("images/fr-minecraft_wallpaper_OBL2.png?rand=85f8");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/fr-minecraft_wallpaper_OBL2.png?rand=85f8");
   margin: -148px auto 0;
 }
 
@@ -1460,7 +1496,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 698px;
-  background-image: url("images/2021-06-15_13.15.33_3.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/2021-06-17_00.06.52.png");
   background-position: 50% 50%;
 }
 
@@ -1483,23 +1519,36 @@
 }
 
 .u-section-3 .u-text-1 {
-  margin: 116px auto 0;
+  font-weight: 700;
+  margin: 55px auto 0;
 }
 
 .u-section-3 .u-text-2 {
-  margin: 20px 30px 0;
+  width: 408px;
+  margin: 20px auto 0;
 }
 
 .u-section-3 .u-shape-4 {
   width: 135px;
   height: 136px;
-  margin: 83px 116px 0 auto;
+  margin: 246px 116px 0 auto;
 }
 
 .u-section-3 .u-image-2 {
   width: 285px;
   height: 285px;
-  margin: -121px auto 0 157px;
+  margin: -298px auto 0 157px;
+}
+
+.u-section-3 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -170px 160px 0 189px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -1529,9 +1578,8 @@
     width: 443px;
   }
 
-  .u-section-3 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 576px;
   }
 
   .u-section-3 .u-shape-4 {
@@ -1542,6 +1590,11 @@
   .u-section-3 .u-image-2 {
     margin-top: -304px;
     margin-left: auto;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 110px;
+    margin-left: 139px;
   }
 }
 
@@ -1562,8 +1615,21 @@
     width: 333px;
   }
 
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 360px;
+  }
+
   .u-section-3 .u-shape-4 {
     margin-right: 20px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 55px;
+    margin-left: 84px;
   }
 }
 
@@ -1597,10 +1663,6 @@
     width: auto;
   }
 
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 567px;
-  }
-
   .u-section-3 .u-text-1 {
     width: auto;
     margin-top: 20px;
@@ -1630,10 +1692,6 @@
     min-height: 439px;
   }
 
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 508px;
-  }
-
   .u-section-3 .u-shape-4 {
     margin-right: 19px;
   }
@@ -1641,6 +1699,11 @@
   .u-section-3 .u-image-2 {
     margin-right: auto;
     margin-left: 19px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
   }
 }.u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/fr-minecraft_wallpaper_OBL21.png");
@@ -1666,7 +1729,9 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-image: none;
+  background-image: linear-gradient(#db545a, #f1c50e);
+  animation-duration: 1000ms;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
   margin: 40px auto 60px;
 }
 
