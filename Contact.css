@@ -20,7 +20,6 @@
   width: 1023px;
   min-height: 500px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/fr-minecraft_wallpaper_OBL2.png");
-  height: auto;
   margin: -155px auto 0 56px;
 }
 
@@ -59,16 +58,25 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 605px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-top: 359px;
+    margin-right: 30px;
+  }
+
   .u-section-2 .u-shape-2 {
-    margin-top: -375px;
-    margin-left: -23px;
+    margin-top: -272px;
+    margin-left: 24px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 940px;
-    margin-top: -250px;
-    margin-left: 0;
-    height: auto;
+    width: 442px;
+    min-height: 471px;
+    margin-top: -268px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-text-1 {
@@ -76,106 +84,124 @@
     margin-right: 0;
   }
 
+  .u-section-2 .u-form-1 {
+    width: 394px;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+
   .u-section-2 .u-image-2 {
-    margin-top: -441px;
-    margin-left: 741px;
+    width: 218px;
+    height: 386px;
+    margin-top: -401px;
+    margin-right: 0;
   }
 
   .u-section-2 .u-image-3 {
-    margin-left: -50px;
+    width: 218px;
+    height: 386px;
+    margin-top: -386px;
+    margin-bottom: 58px;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 697px;
+    min-height: 546px;
   }
 
   .u-section-2 .u-shape-1 {
-    margin-top: 406px;
-    margin-right: 46px;
+    margin-top: 38px;
+    margin-right: 277px;
   }
 
   .u-section-2 .u-shape-2 {
-    margin-top: -529px;
-    margin-left: 46px;
+    margin-top: -214px;
+    margin-left: 225px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 720px;
-    margin-top: -119px;
+    width: 445px;
+    margin-top: -198px;
+    margin-right: 113px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
   }
 
   .u-section-2 .u-image-2 {
-    width: 112px;
-    height: 195px;
-    margin-top: -427px;
-    margin-left: 658px;
+    width: 162px;
+    height: 282px;
+    margin-top: -422px;
+    margin-right: -73px;
   }
 
   .u-section-2 .u-image-3 {
-    width: 112px;
-    height: 195px;
-    margin-top: 0;
-    margin-bottom: 60px;
+    width: 162px;
+    height: 288px;
+    margin-top: -282px;
+    margin-bottom: 31px;
+    margin-left: -24px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 538px;
+    min-height: 925px;
   }
 
   .u-section-2 .u-shape-1 {
-    margin-top: 342px;
-    margin-right: auto;
-    margin-left: 325px;
+    margin-top: 176px;
+    margin-right: 135px;
   }
 
   .u-section-2 .u-shape-2 {
     width: 100px;
-    height: 384px;
-    margin-top: -880px;
+    height: 231px;
+    margin-top: -192px;
     margin-left: auto;
   }
 
   .u-section-2 .u-image-1 {
-    margin-top: 34px;
+    margin-top: -331px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
+  .u-section-2 .u-form-1 {
+    width: 492px;
+  }
+
   .u-section-2 .u-image-2 {
     width: 216px;
     height: 384px;
-    margin-top: -918px;
-    margin-left: 0;
+    margin-top: 43px;
+    margin-right: auto;
   }
 
   .u-section-2 .u-image-3 {
     width: 215px;
     height: 384px;
     margin-top: -384px;
-    margin-left: 325px;
+    margin-left: auto;
+    margin-bottom: 7px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 934px;
+  }
+
   .u-section-2 .u-shape-1 {
-    margin-left: 205px;
+    margin-top: 18px;
   }
 
   .u-section-2 .u-shape-2 {
     height: 312px;
-    margin-top: -844px;
-  }
-
-  .u-section-2 .u-image-1 {
-    margin-top: 56px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-2 .u-form-1 {
@@ -184,14 +210,8 @@
     margin-right: 15px;
   }
 
-  .u-section-2 .u-image-2 {
-    margin-top: -904px;
-    margin-left: -50px;
-  }
-
   .u-section-2 .u-image-3 {
-    margin-right: -50px;
-    margin-left: auto;
+    margin-bottom: -57px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 10px;
@@ -274,7 +294,7 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 167px;
+    min-height: 353px;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -288,7 +308,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 105px;
+    min-height: 222px;
   }
 
   .u-section-4 .u-list-1 {
@@ -296,7 +316,7 @@
   }
 
   .u-section-4 .u-btn-1 {
-    margin-left: 0;
+    margin-left: 78px;
   }
 
   .u-section-4 .u-text-1 {
@@ -305,7 +325,7 @@
   }
 
   .u-section-4 .u-btn-2 {
-    margin-left: 0;
+    margin-left: 78px;
   }
 
   .u-section-4 .u-text-2 {
