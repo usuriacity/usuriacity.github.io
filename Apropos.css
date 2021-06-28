@@ -464,323 +464,397 @@
 }.u-section-3 .u-sheet-1 {
   min-height: 10px;
 }.u-section-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/fr-minecraft_wallpaper_OBL21.png");
-  background-size: 125%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/R914dd2d334726eb5d1eda346715d4579.png");
   background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 687px;
+  min-height: 146px;
 }
 
 .u-section-4 .u-text-1 {
   font-weight: 700;
-  margin: 55px 483px 0 490px;
-}
-
-.u-section-4 .u-group-1 {
-  width: 269px;
-  margin: 69px auto 0 59px;
-}
-
-.u-section-4 .u-text-2 {
-  font-weight: 700;
-  text-transform: none;
-  margin: 12px 12px 0 125px;
-}
-
-.u-section-4 .u-text-3 {
-  font-weight: 700;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  margin: -6px 0 0 125px;
-}
-
-.u-section-4 .u-image-1 {
-  background-image: url("images/unnamed.png");
-}
-
-.u-section-4 .u-text-4 {
-  font-size: 0.625rem;
-  margin: -63px 0 0 125px;
-}
-
-.u-section-4 .u-group-2 {
-  width: 533px;
-  margin: -115px -163px 0 auto;
-}
-
-.u-section-4 .u-image-2 {
-  background-image: url("images/Sanstitre-3.png");
-}
-
-.u-section-4 .u-text-5 {
-  font-size: 0.625rem;
-  margin: -63px 0 0 125px;
-}
-
-.u-section-4 .u-text-6 {
-  font-weight: 700;
-  text-transform: none;
-  margin: -56px 235px 0 125px;
-}
-
-.u-section-4 .u-text-7 {
-  font-weight: 700;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  margin: -7px 264px 0 125px;
-}
-
-.u-section-4 .u-group-3 {
-  width: 415px;
-  margin: 119px auto 0 59px;
-}
-
-.u-section-4 .u-text-8 {
-  font-weight: 700;
-  text-transform: none;
+  text-shadow: 0 -2px 25px rgba(128,128,128,1);
   animation-duration: 1000ms;
-  margin: 13px 158px 0 124px;
-}
-
-.u-section-4 .u-text-9 {
-  font-weight: 700;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  margin: -6px 188px 0 124px;
-}
-
-.u-section-4 .u-image-3 {
-  background-image: url("images/3nhc5vi.jpg");
-}
-
-.u-section-4 .u-text-10 {
-  font-size: 0.625rem;
-  margin: -62px 0 0 124px;
-}
-
-.u-section-4 .u-group-4 {
-  width: 269px;
-  margin: -133px 101px 0 auto;
-}
-
-.u-section-4 .u-text-11 {
-  font-weight: 700;
-  text-transform: none;
-  margin: 7px 12px 0 125px;
-}
-
-.u-section-4 .u-text-12 {
-  font-weight: 700;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  margin: -6px 0 0 125px;
-}
-
-.u-section-4 .u-image-4 {
-  background-image: url("images/Sanstitre-3.png");
-}
-
-.u-section-4 .u-text-13 {
-  font-size: 0.625rem;
-  margin: -62px 0 0 125px;
-}
-
-.u-section-4 .u-group-5 {
-  width: 304px;
-  margin: 43px auto 0 59px;
-}
-
-.u-section-4 .u-text-14 {
-  font-weight: 700;
-  text-transform: none;
-  margin: 19px 46px 0 125px;
-}
-
-.u-section-4 .u-text-15 {
-  font-weight: 700;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  margin: -6px 0 0 125px;
-}
-
-.u-section-4 .u-image-5 {
-  background-image: url("images/Sanstitre-3.png");
-}
-
-.u-section-4 .u-text-16 {
-  font-size: 0.625rem;
-  margin: -56px 0 0 125px;
+  margin: 40px auto;
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 {
-    background-size: auto 125%;
-  }
-
-  .u-section-4 .u-text-1 {
-    margin-right: 433px;
-    margin-left: 340px;
-  }
-
-  .u-section-4 .u-group-1 {
-    min-height: 115px;
-  }
-
-  .u-section-4 .u-image-1 {
-    width: 115px;
-    height: 115px;
-    background-position: 50% 50%;
-    animation-duration: 1000ms;
-    margin: -52px 154px 0 0;
-  }
-
-  .u-section-4 .u-group-2 {
-    min-height: 115px;
-  }
-
-  .u-section-4 .u-image-2 {
-    width: 115px;
-    height: 115px;
-    background-position: 50% 50%;
-    animation-duration: 1000ms;
-    margin: 0 auto 0 0;
-  }
-
-  .u-section-4 .u-group-3 {
-    min-height: 133px;
-    margin-top: 55px;
-  }
-
-  .u-section-4 .u-image-3 {
-    width: 115px;
-    height: 115px;
-    background-position: 50% 50%;
-    animation-duration: 1000ms;
-    margin: -53px 300px 0 0;
-  }
-
-  .u-section-4 .u-group-4 {
-    min-height: 115px;
-  }
-
-  .u-section-4 .u-image-4 {
-    width: 115px;
-    height: 115px;
-    background-position: 50% 50%;
-    animation-duration: 1000ms;
-    margin: -47px auto 0 0;
-  }
-
-  .u-section-4 .u-group-5 {
-    min-height: 115px;
-    margin-bottom: 60px;
-  }
-
-  .u-section-4 .u-image-5 {
-    width: 115px;
-    height: 115px;
-    background-position: 50% 50%;
-    animation-duration: 1000ms;
-    margin: -59px 189px 0 0;
+  .u-section-4 .u-sheet-1 {
+    min-height: 120px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 621px;
-  }
-
-  .u-section-4 .u-text-1 {
-    width: 219px;
-    margin-top: 48px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-section-4 .u-group-3 {
-    margin-top: 185px;
+    min-height: 92px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1340px;
-  }
-
-  .u-section-4 .u-text-1 {
-    margin-right: 202px;
-    margin-left: 172px;
-  }
-
-  .u-section-4 .u-group-3 {
-    margin-top: 837px;
+    min-height: 69px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1387px;
-  }
-
-  .u-section-4 .u-text-1 {
-    width: auto;
-    margin-top: 47px;
-    margin-right: 17px;
-    margin-left: 104px;
-  }
-
-  .u-section-4 .u-group-2 {
-    width: 340px;
-    margin-right: 0;
-  }
-
-  .u-section-4 .u-text-5 {
-    margin-left: 0;
-  }
-
-  .u-section-4 .u-text-6 {
-    margin-right: 167px;
-    margin-left: 0;
-  }
-
-  .u-section-4 .u-text-7 {
-    margin-right: 196px;
-    margin-left: 0;
-  }
-
-  .u-section-4 .u-group-3 {
-    width: 340px;
-    margin-top: 841px;
-    margin-left: 0;
-  }
-
-  .u-section-4 .u-text-8 {
-    margin-right: 129px;
-    margin-left: 102px;
-  }
-
-  .u-section-4 .u-text-9 {
-    margin-right: 135px;
-    margin-left: 102px;
-  }
-
-  .u-section-4 .u-image-3 {
-    margin-right: 225px;
-  }
-
-  .u-section-4 .u-text-10 {
-    margin-left: 102px;
-  }
-
-  .u-section-4 .u-group-4 {
-    margin-right: 71px;
-  }
-
-  .u-section-4 .u-group-5 {
-    margin-left: 36px;
+    min-height: 43px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 10px;
+}.u-section-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/fr-minecraft_wallpaper_OBL21.png");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 590px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 0 26px 2px -26px;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 588px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-6 .u-image-1 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/persominecraft.PNG");
+  background-position: 50% 50%;
+  margin: 0 0 0 auto;
+}
+
+.u-section-6 .u-text-1 {
+  font-weight: 700;
+  line-height: 43px;
+  font-size: 3.75rem;
+  margin: -26px 262px 0 4px;
+}
+
+.u-section-6 .u-text-2 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 30px 0 0 4px;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 588px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-6 .u-image-2 {
+  width: 378px;
+  height: 378px;
+  background-image: url("images/ca998490ec202f34e696b06b017b275dad9dcf8b_hq.gif");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-6 .u-text-3 {
+  width: 360px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 383px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    width: 940px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 485px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 281px;
+    height: 281px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: -17px;
+    margin-left: 0;
+    margin-right: 166px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 4px;
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 485px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 234px;
+    height: 234px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-top: -21px;
+    margin-right: 56px;
+  }
+
+  .u-section-6 .u-text-2 {
+    width: auto;
+    margin-top: 20px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-image-2 {
+    width: 300px;
+    height: 300px;
+  }
+
+  .u-section-6 .u-text-3 {
+    width: 300px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 483px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-image-1 {
+    margin-right: auto;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-right: 0;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 10px;
+}.u-section-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/fr-minecraft_wallpaper_OBL21.png");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 590px;
+}
+
+.u-section-8 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 0 26px 2px -26px;
+}
+
+.u-section-8 .u-layout-cell-1 {
+  min-height: 589px;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-8 .u-image-1 {
+  width: 290px;
+  height: 290px;
+  background-image: url("images/3nhc5vi.jpg");
+  background-position: 50% 50%;
+  margin: 0 0 0 auto;
+}
+
+.u-section-8 .u-text-1 {
+  font-weight: 700;
+  line-height: 43px;
+  font-size: 3.75rem;
+  margin: 16px 128px 0 4px;
+}
+
+.u-section-8 .u-text-2 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 30px 26px 0 4px;
+}
+
+.u-section-8 .u-layout-cell-2 {
+  min-height: 588px;
+}
+
+.u-section-8 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-8 .u-image-2 {
+  width: 378px;
+  height: 378px;
+  background-image: url("images/3nhc5vi.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-8 .u-text-3 {
+  width: 360px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 383px;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    width: 940px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    min-height: 486px;
+  }
+
+  .u-section-8 .u-image-1 {
+    width: 281px;
+    height: 281px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-top: -17px;
+    margin-left: 0;
+    margin-right: 32px;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-right: 4px;
+    margin-left: 0;
+  }
+
+  .u-section-8 .u-layout-cell-2 {
+    min-height: 485px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-8 .u-image-1 {
+    width: 234px;
+    height: 234px;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-top: -21px;
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-text-2 {
+    width: auto;
+    margin-top: 20px;
+  }
+
+  .u-section-8 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-8 .u-image-2 {
+    width: 300px;
+    height: 300px;
+  }
+
+  .u-section-8 .u-text-3 {
+    width: 300px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 483px;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-image-1 {
+    margin-right: auto;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-layout-wrap-1 {
+    width: 340px;
+  }
 }

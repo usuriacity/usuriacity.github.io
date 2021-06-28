@@ -55,7 +55,6 @@
   width: 68px;
   min-height: 23px;
   box-shadow: -2px 0 8px 0 rgba(128,128,128,1);
-  height: auto;
   margin: -20px auto 0 241px;
 }
 
@@ -83,7 +82,6 @@
 
   .u-section-2 .u-group-3 {
     margin-top: -19px;
-    height: auto;
   }
 }
 
